@@ -1,0 +1,56 @@
+csv_data = ""
+
+
+state,p_growing,category,color,date,state_abb,ISO_3166_2,pathogen,median,lower,upper,interval_width,is_plotted_date,additional_text,p_growing_probability,geography,percent_visits,threshold_classification,ed_trends
+United States,0.9517,Growing,#6d085a,2025-07-15,US,US-US,COVID-19,1.05,0.98,1.11,0.95,true,Click on a state to see more information.,95.17,United States,0.51,Very Low,Increasing
+Alabama,0.5525,Not Changing,#bdbdbd,2025-07-15,AL,US-AL,COVID-19,1.01,0.80,1.17,0.95,true,,55.25,Alabama,0.55,Very Low,Increasing
+Alaska,0.7568,Likely Growing,#b83d93,2025-07-15,AK,US-AK,COVID-19,1.03,0.87,1.20,0.95,true,,75.68,Alaska,0.58,Very Low,No Change
+Arizona,0.6860,Not Changing,#bdbdbd,2025-07-15,AZ,US-AZ,COVID-19,1.02,0.89,1.15,0.95,true,,68.60,Arizona,0.52,Very Low,Increasing
+Arkansas,0.9480,Growing,#6d085a,2025-07-15,AR,US-AR,COVID-19,1.15,0.97,1.47,0.95,true,,94.80,Arkansas,0.24,Very Low,No Change
+California,0.8858,Likely Growing,#b83d93,2025-07-15,CA,US-CA,COVID-19,1.07,0.93,1.17,0.95,true,,88.58,California,0.73,Low,Increasing
+Colorado,0.7495,Not Changing,#bdbdbd,2025-07-15,CO,US-CO,COVID-19,1.03,0.89,1.18,0.95,true,,74.95,Colorado,0.35,Very Low,No Change
+Connecticut,0.6088,Not Changing,#bdbdbd,2025-07-15,CT,US-CT,COVID-19,1.02,0.80,1.19,0.95,true,,60.88,Connecticut,0.38,Very Low,No Change
+Delaware,0.8488,Likely Growing,#b83d93,2025-07-15,DE,US-DE,COVID-19,1.07,0.92,1.32,0.95,true,,84.88,Delaware,0.19,Very Low,No Change
+District of Columbia,0.8652,Likely Growing,#b83d93,2025-07-15,DC,US-DC,COVID-19,1.13,0.89,1.43,0.95,true,,86.52,District of Columbia,0.37,Very Low,No Change
+Florida,0.6677,Not Changing,#bdbdbd,2025-07-15,FL,US-FL,COVID-19,1.02,0.86,1.07,0.95,true,,66.77,Florida,1.55,Low,Increasing
+Georgia,0.8902,Likely Growing,#b83d93,2025-07-15,GA,US-GA,COVID-19,1.07,0.94,1.19,0.95,true,,89.02,Georgia,0.36,Very Low,Increasing
+Hawaii,0.9795,Growing,#6d085a,2025-07-15,HI,US-HI,COVID-19,1.21,1.01,1.42,0.95,true,,97.95,Hawaii,1.99,Low,Increasing
+Idaho,0.6000,Not Changing,#bdbdbd,2025-07-15,ID,US-ID,COVID-19,1.01,0.87,1.15,0.95,true,,60.00,Idaho,0.39,Very Low,No Change
+Illinois,0.9647,Growing,#6d085a,2025-07-15,IL,US-IL,COVID-19,1.10,0.99,1.27,0.95,true,,96.47,Illinois,0.21,Very Low,No Change
+Indiana,0.8750,Likely Growing,#b83d93,2025-07-15,IN,US-IN,COVID-19,1.06,0.94,1.23,0.95,true,,87.50,Indiana,0.17,Very Low,No Change
+Iowa,0.9495,Growing,#6d085a,2025-07-15,IA,US-IA,COVID-19,1.18,0.96,1.45,0.95,true,,94.95,Iowa,0.22,Very Low,No Change
+Kansas,0.6465,Not Changing,#bdbdbd,2025-07-15,KS,US-KS,COVID-19,1.01,0.86,1.16,0.95,true,,64.65,Kansas,0.15,Very Low,No Change
+Kentucky,0.9133,Growing,#6d085a,2025-07-15,KY,US-KY,COVID-19,1.13,0.93,1.30,0.95,true,,91.33,Kentucky,0.29,Very Low,Increasing
+Louisiana,NA,Not Estimated,#ffffff,2025-07-15,LA,US-LA,COVID-19,NA,NA,NA,NA,true,,NA,Louisiana,0.82,Low,Increasing
+Maine,0.7957,Likely Growing,#b83d93,2025-07-15,ME,US-ME,COVID-19,1.06,0.87,1.29,0.95,true,,79.57,Maine,0.14,Very Low,No Change
+Maryland,0.7730,Likely Growing,#b83d93,2025-07-15,MD,US-MD,COVID-19,1.04,0.89,1.15,0.95,true,,77.30,Maryland,0.51,Very Low,Increasing
+Massachusetts,0.8582,Likely Growing,#b83d93,2025-07-15,MA,US-MA,COVID-19,1.05,0.94,1.18,0.95,true,,85.82,Massachusetts,0.32,Very Low,No Change
+Michigan,0.8123,Likely Growing,#b83d93,2025-07-15,MI,US-MI,COVID-19,1.05,0.93,1.22,0.95,true,,81.23,Michigan,0.14,Very Low,No Change
+Minnesota,0.5463,Not Changing,#bdbdbd,2025-07-15,MN,US-MN,COVID-19,1.01,0.78,1.17,0.95,true,,54.63,Minnesota,0.25,Very Low,Increasing
+Mississippi,0.7650,Likely Growing,#b83d93,2025-07-15,MS,US-MS,COVID-19,1.07,0.86,1.21,0.95,true,,76.50,Mississippi,0.63,Very Low,Increasing
+Missouri,0.7085,Not Changing,#bdbdbd,2025-07-15,MO,US-MO,COVID-19,1.02,0.87,1.16,0.95,true,,70.85,Missouri,NA,Data Unavailable,Data Unavailable
+Montana,0.2407,Likely Declining,#3bbbb0,2025-07-15,MT,US-MT,COVID-19,0.95,0.70,1.09,0.95,true,,24.07,Montana,0.23,Very Low,No Change
+Nebraska,0.3772,Not Changing,#bdbdbd,2025-07-15,NE,US-NE,COVID-19,0.98,0.78,1.20,0.95,true,,37.72,Nebraska,0.09,Very Low,No Change
+Nevada,0.4602,Not Changing,#bdbdbd,2025-07-15,NV,US-NV,COVID-19,0.99,0.76,1.14,0.95,true,,46.02,Nevada,0.44,Very Low,Increasing
+New Hampshire,0.7352,Not Changing,#bdbdbd,2025-07-15,NH,US-NH,COVID-19,1.05,0.79,1.28,0.95,true,,73.52,New Hampshire,0.27,Very Low,Increasing
+New Jersey,0.8257,Likely Growing,#b83d93,2025-07-15,NJ,US-NJ,COVID-19,1.04,0.93,1.17,0.95,true,,82.57,New Jersey,0.38,Very Low,No Change
+New Mexico,NA,Not Estimated,#ffffff,2025-07-15,NM,US-NM,COVID-19,NA,NA,NA,NA,true,,NA,New Mexico,0.31,Very Low,No Change
+New York,0.8882,Likely Growing,#b83d93,2025-07-15,NY,US-NY,COVID-19,1.04,0.97,1.17,0.95,true,,88.82,New York,0.31,Very Low,No Change
+North Carolina,0.9640,Growing,#6d085a,2025-07-15,NC,US-NC,COVID-19,1.11,0.99,1.29,0.95,true,,96.40,North Carolina,0.39,Very Low,Increasing
+North Dakota,NA,Not Estimated,#ffffff,2025-07-15,ND,US-ND,COVID-19,NA,NA,NA,NA,true,,NA,North Dakota,0.1,Very Low,No Change
+Ohio,0.9540,Growing,#6d085a,2025-07-15,OH,US-OH,COVID-19,1.13,0.96,1.31,0.95,true,,95.40,Ohio,0.15,Very Low,No Change
+Oklahoma,0.8263,Likely Growing,#b83d93,2025-07-15,OK,US-OK,COVID-19,1.06,0.87,1.26,0.95,true,,82.63,Oklahoma,0.18,Very Low,Increasing
+Oregon,0.6773,Not Changing,#bdbdbd,2025-07-15,OR,US-OR,COVID-19,1.02,0.88,1.17,0.95,true,,67.73,Oregon,0.61,Very Low,Increasing
+Pennsylvania,0.9303,Growing,#6d085a,2025-07-15,PA,US-PA,COVID-19,1.11,0.95,1.27,0.95,true,,93.03,Pennsylvania,0.18,Very Low,Increasing
+Rhode Island,0.2557,Not Changing,#bdbdbd,2025-07-15,RI,US-RI,COVID-19,0.96,0.78,1.14,0.95,true,,25.57,Rhode Island,0.23,Very Low,No Change
+South Carolina,0.8680,Likely Growing,#b83d93,2025-07-15,SC,US-SC,COVID-19,1.09,0.91,1.31,0.95,true,,86.80,South Carolina,0.4,Very Low,Increasing
+South Dakota,NA,Not Estimated,#ffffff,2025-07-15,SD,US-SD,COVID-19,NA,NA,NA,NA,true,,NA,South Dakota,0.19,Very Low,No Change
+Tennessee,0.8075,Likely Growing,#b83d93,2025-07-15,TN,US-TN,COVID-19,1.06,0.90,1.23,0.95,true,,80.75,Tennessee,0.28,Very Low,Increasing
+Texas,0.9708,Growing,#6d085a,2025-07-15,TX,US-TX,COVID-19,1.08,1.00,1.16,0.95,true,,97.08,Texas,0.87,Low,Increasing
+Utah,0.6895,Not Changing,#bdbdbd,2025-07-15,UT,US-UT,COVID-19,1.05,0.82,1.24,0.95,true,,68.95,Utah,0.44,Very Low,Increasing
+Vermont,NA,Not Estimated,#ffffff,2025-07-15,VT,US-VT,COVID-19,NA,NA,NA,NA,true,,NA,Vermont,0.22,Very Low,No Change
+Virginia,0.9373,Growing,#6d085a,2025-07-15,VA,US-VA,COVID-19,1.10,0.95,1.23,0.95,true,,93.73,Virginia,0.46,Very Low,Increasing
+Washington,0.4062,Not Changing,#bdbdbd,2025-07-15,WA,US-WA,COVID-19,0.99,0.85,1.10,0.95,true,,40.62,Washington,0.71,Very Low,Increasing
+West Virginia,0.4908,Not Changing,#bdbdbd,2025-07-15,WV,US-WV,COVID-19,1.00,0.80,1.10,0.95,true,,49.08,West Virginia,0.22,Very Low,No Change
+Wisconsin,0.7775,Likely Growing,#b83d93,2025-07-15,WI,US-WI,COVID-19,1.06,0.87,1.24,0.95,true,,77.75,Wisconsin,0.16,Very Low,No Change
+Wyoming,NA,Not Estimated,#ffffff,2025-07-15,WY,US-WY,COVID-19,NA,NA,NA,NA,true,,NA,Wyoming,NA,Data Unavailable,Data Unavailable
