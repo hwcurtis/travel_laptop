@@ -1,0 +1,119 @@
+Symptom,Category
+Fever,COVID-19
+Sore throat,COVID-19
+Headache,COVID-19
+Tiredness (fatigue),COVID-19
+Body aches,COVID-19
+Chills,COVID-19
+Stuffy or runny nose,COVID-19
+Cough,COVID-19
+Shortness of breath,COVID-19
+Loss of or altered sense of smell and taste,COVID-19
+Difficulty thinking and focusing (brain fog),COVID-19
+"Digestive symptoms, like diarrhea, nausea and vomiting",COVID-19
+"Dizziness or lightheadedness, especially when standing up, during prolonged standing in one position or on long walks.",POTS
+Fainting or near fainting.,POTS
+Forgetfulness and trouble focusing (brain fog).,POTS
+Heart palpitations or racing heart rate.,POTS
+Exhaustion/fatigue.,POTS
+Feeling nervous or anxious.,POTS
+Shakiness and excessive sweating.,POTS
+Shortness of breath (dyspnea).,POTS
+Chest pain.,POTS
+Headaches.,POTS
+Feeling sick.,POTS
+Bloating.,POTS
+A pale face and purple discoloration of your hands and feet if they are lower than the level of your heart.,POTS
+"Disrupted sleep from chest pain, racing heart rate and excessive sweating during sleep.",POTS
+Balance problems.,Dysautonomia
+Fainting or passing out (especially when standing up).,Dysautonomia
+Nausea and vomiting.,Dysautonomia
+"Brain fog, forgetfulness or trouble focusing.",Dysautonomia
+Fast heart rate (tachycardia) or slow heart rate (bradycardia).,Dysautonomia
+Pinpoint eye pupils or unusually wide eye pupils.,Dysautonomia
+Changes in bowel movements (constipation or diarrhea).,Dysautonomia
+Fatigue or ongoing tiredness.,Dysautonomia
+Sexual dysfunction.,Dysautonomia
+Chest pain or discomfort.,Dysautonomia
+Frequent urge to pee (urinate) or urinary incontinence.,Dysautonomia
+Shortness of breath (dyspnea).,Dysautonomia
+Clammy or pale skin.,Dysautonomia
+Heart palpitations.,Dysautonomia
+Sleeping problems.,Dysautonomia
+Trouble swallowing (dysphagia).,Dysautonomia
+Irregular heart rhythm (arrhythmia).,Dysautonomia
+Sound or light sensitivity.,Dysautonomia
+Dizziness or lightheadedness (especially when standing up).,Dysautonomia
+Low blood sugar (hypoglycemia).,Dysautonomia
+"Sweating more or less than usual, or sweating more in certain body parts.",Dysautonomia
+Unusually dry or watery eyes.,Dysautonomia
+Migraines or frequent headaches.,Dysautonomia
+Swings in body or skin temperature.,Dysautonomia
+Excessive drooling.,Dysautonomia
+Mood swings or anxiety.,Dysautonomia
+Vision issues (blurred vision or trouble with your eyes adjusting to light changes).,Dysautonomia
+Exercise intolerance (your heart rate does not change with physical activity).,Dysautonomia
+Runny nose.,Dysautonomia
+Vertigo.,Dysautonomia
+
+combined_symptoms.csv
+Fever,COVID-19
+Sore throat,COVID-19
+Headache,COVID-19
+Tiredness (fatigue),COVID-19
+Body aches,COVID-19
+Chills,COVID-19
+Stuffy or runny nose,COVID-19
+Cough,COVID-19
+Shortness of breath,COVID-19
+Loss of or altered sense of smell and taste,COVID-19
+Difficulty thinking and focusing (brain fog),COVID-19
+"Digestive symptoms, like diarrhea, nausea and vomiting",COVID-19
+"Dizziness or lightheadedness, especially when standing up, during prolonged standing in one position or on long walks.",POTS
+Fainting or near fainting.,POTS
+Forgetfulness and trouble focusing (brain fog).,POTS
+Heart palpitations or racing heart rate.,POTS
+Exhaustion/fatigue.,POTS
+Feeling nervous or anxious.,POTS
+Shakiness and excessive sweating.,POTS
+Shortness of breath (dyspnea).,POTS
+Chest pain.,POTS
+Headaches.,POTS
+Feeling sick.,POTS
+Bloating.,POTS
+A pale face and purple discoloration of your hands and feet if they are lower than the level of your heart.,POTS
+"Disrupted sleep from chest pain, racing heart rate and excessive sweating during sleep.",POTS
+Balance problems.,Dysautonomia
+Fainting or passing out (especially when standing up).,Dysautonomia
+Nausea and vomiting.,Dysautonomia
+"Brain fog, forgetfulness or trouble focusing.",Dysautonomia
+Fast heart rate (tachycardia) or slow heart rate (bradycardia).,Dysautonomia
+Pinpoint eye pupils or unusually wide eye pupils.,Dysautonomia
+Changes in bowel movements (constipation or diarrhea).,Dysautonomia
+Fatigue or ongoing tiredness.,Dysautonomia
+Sexual dysfunction.,Dysautonomia
+Chest pain or discomfort.,Dysautonomia
+Frequent urge to pee (urinate) or urinary incontinence.,Dysautonomia
+Shortness of breath (dyspnea).,Dysautonomia
+Clammy or pale skin.,Dysautonomia
+Heart palpitations.,Dysautonomia
+Sleeping problems.,Dysautonomia
+Trouble swallowing (dysphagia).,Dysautonomia
+Irregular heart rhythm (arrhythmia).,Dysautonomia
+Sound or light sensitivity.,Dysautonomia
+Dizziness or lightheadedness (especially when standing up).,Dysautonomia
+Low blood sugar (hypoglycemia).,Dysautonomia
+"Sweating more or less than usual, or sweating more in certain body parts.",Dysautonomia
+Unusually dry or watery eyes.,Dysautonomia
+Migraines or frequent headaches.,Dysautonomia
+Swings in body or skin temperature.,Dysautonomia
+Excessive drooling.,Dysautonomia
+Mood swings or anxiety.,Dysautonomia
+Vision issues (blurred vision or trouble with your eyes adjusting to light changes).,Dysautonomia
+Exercise intolerance (your heart rate does not change with physical activity).,Dysautonomia
+Runny nose.,Dysautonomia
+Vertigo.,Dysautonomia
+Fever,COVID-19
+Sore throat,COVID-19
+Headache,COVID-19
+Tiredness (fatigue),COVID-19
